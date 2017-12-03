@@ -1,0 +1,31 @@
+baseurl = "http://shipovdenis.ru"
+languageCode = "ru"
+title = "КРАСОТА | ЗДОРОВЬЕ"
+theme = "HUCORE"
+copyright = "&copy; 2017 | Денис Шипов"
+disqusShortname = "shipovdenis"
+googleAnalytics = "trackingcode"
+
+publishDir = "docs"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "Блог о красоте и здоровье"
+keywords = ["красота", "здоровье"]
+author = "Денис Шипов"
+sharingicons = true
+
+[[params.social]]
+url = "https://github.com/shipovdenis"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/shipovdenis"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
