@@ -21,12 +21,8 @@ author = "Денис Шипов"
 sharingicons = true
 
 [[params.social]]
-url = "https://github.com/shipovdenis"
-fa_icon = "fa-github"
-
-[[params.social]]
-url = "https://twitter.com/shipovdenis"
-fa_icon = "fa-twitter"
+url = "https://vk.com/myhealthtips"
+fa_icon = "fa-vk"
 
 [[params.social]]
 url = "/index.xml"
