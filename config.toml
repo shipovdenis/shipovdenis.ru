@@ -6,6 +6,8 @@ copyright = "&copy; 2017 | Денис Шипов"
 disqusShortname = "shipovdenis"
 googleAnalytics = "trackingcode"
 
+enableRobotsTXT = true
+
 publishDir = "docs"
 
 [taxonomies]
