@@ -1,2 +1,2 @@
 User-agent: *
-Host: shipovdenis.ru
+Host: https://shipovdenis.ru
