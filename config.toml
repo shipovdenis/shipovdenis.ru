@@ -1,8 +1,8 @@
-baseurl = "//shipovdenis.ru"
+baseurl = "https://shipovdenis.ru"
 languageCode = "ru"
 title = "КРАСОТА | ЗДОРОВЬЕ"
 theme = "HUCORE"
-copyright = "&copy; 2017 | Денис Шипов"
+copyright = "&copy; 2017 | Денис Шипоsв"
 disqusShortname = "shipovdenis"
 googleAnalytics = "trackingcode"
 
