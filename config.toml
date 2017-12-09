@@ -1,6 +1,6 @@
 baseurl = "https://shipovdenis.ru"
 languageCode = "ru"
-title = "КРАСОТА | ЗДОРОВЬЕ"
+title = "Красота и Здоровье"
 theme = "HUCORE"
 copyright = "&copy; 2017 | Денис Шипов"
 disqusShortname = "shipovdenis"
@@ -15,7 +15,7 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "Блог о красоте и здоровье"
+description = "Полезные заметки, статьи и рецепты для поддержания природной красоты и сохранения крепкого здоровья"
 keywords = ["красота", "здоровье"]
 author = "Денис Шипов"
 sharingicons = true
